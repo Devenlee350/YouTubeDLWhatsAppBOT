@@ -50,7 +50,7 @@
   * config.timezone : *timezone displays the time at the specified location* (string)
   * config.groups : *to filter whether bots can respond to group chats or not* (boolean)
 * [console.txt](https://github.com/DrelezTM/YouTubeDLWhatsAppBOT/blob/main/config/console.txt)
-  ```txtNNNNNNNN        NNNNNNNN     OOOOOOOOO     VVVVVVVV           VVVVVVVV   AAA               
+  ```NNNNNNNN        NNNNNNNN     OOOOOOOOO     VVVVVVVV           VVVVVVVV   AAA               
 N:::::::N       N::::::N   OO:::::::::OO   V::::::V           V::::::V  A:::A              
 N::::::::N      N::::::N OO:::::::::::::OO V::::::V           V::::::V A:::::A             
 N:::::::::N     N::::::NO:::::::OOO:::::::OV::::::V           V::::::VA:::::::A            
