@@ -49,13 +49,8 @@
   * config.prefix : *prefix for command* (string)
   * config.timezone : *timezone displays the time at the specified location* (string)
   * config.groups : *to filter whether bots can respond to group chats or not* (boolean)
-* [console.txt](https://github.com/Devenlee350/YouTubeDLWhatsAppBOT/blob/main/config/console.txt)
-  ```txt
-
-   
-                                                                                           
-                                                                                           
-NNNNNNNN        NNNNNNNN     OOOOOOOOO     VVVVVVVV           VVVVVVVV   AAA               
+* [console.txt](https://github.com/DrelezTM/YouTubeDLWhatsAppBOT/blob/main/config/console.txt)
+  ```txtNNNNNNNN        NNNNNNNN     OOOOOOOOO     VVVVVVVV           VVVVVVVV   AAA               
 N:::::::N       N::::::N   OO:::::::::OO   V::::::V           V::::::V  A:::A              
 N::::::::N      N::::::N OO:::::::::::::OO V::::::V           V::::::V A:::::A             
 N:::::::::N     N::::::NO:::::::OOO:::::::OV::::::V           V::::::VA:::::::A            
@@ -70,17 +65,7 @@ N::::::N     N:::::::::NO::::::O   O::::::O        V:::::::::VA:::::AAAAAAAAAAAA
 N::::::N      N::::::::NO:::::::OOO:::::::O         V:::::::VA:::::A             A:::::A   
 N::::::N       N:::::::N OO:::::::::::::OO           V:::::VA:::::A               A:::::A  
 N::::::N        N::::::N   OO:::::::::OO              V:::VA:::::A                 A:::::A 
-NNNNNNNN         NNNNNNN     OOOOOOOOO                 VVVAAAAAAA                   AAAAAAA
-                                                                                           
-                                                                                           
-                                                                                           
-                                                                                           
-                                                                                           
-                                                                                           
-                                                                                           
-
-    
-  ```
+NNNNNNNN         NNNNNNN     OOOOOOOOO                 VVVAAAAAAA                   AAAAAAA```
   You can replace ascii in https://patorjk.com/software/taag/
 
  ## How to Use 🔭
